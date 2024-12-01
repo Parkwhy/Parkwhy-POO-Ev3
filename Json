@@ -1,13 +1,15 @@
 [
  {
+
  "run": "20956091-7",
  "nombre": "Bastian",
  "apellido": "Apablaza",
  "direccion": "Bio bio 38",
  "fono": 5769351,
  "correo":"Bastian.apablaza@inacapmail.com",
+ "tipo": "Platinum",
  "montoCredito": 5000,
- "deuda":1000,
- "tipo": "Platinum"
+ "deuda":1000
+ 
  }
 ]
